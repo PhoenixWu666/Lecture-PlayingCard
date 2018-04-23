@@ -25,7 +25,7 @@ struct PlayingCard: CustomStringConvertible {
         }
         
         case spades = "♠️"
-        case hearts = "♥️"
+        case hearts = "❤️"
         case diamonds = "♦️"
         case clubs = "♣️"
         
